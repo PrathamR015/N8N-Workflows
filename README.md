@@ -21,7 +21,7 @@ This workflow implements a **Retrieval-Augmented Generation (RAG)** system that:
 
 ---
 
-<p align="center">
+<p>
   <img src="RAGPipelineAndChatbot.png" width="600"/>
 </p>
 
@@ -71,6 +71,12 @@ Automates **email-based customer support** using AI:
 
 ---
 
+<p>
+  <img src="CustomerSupport.png" width="600"/>
+</p>
+
+---
+
 ## ⚙️ Implementation
 
 ### 🔹 Step 1: Email Trigger
@@ -115,6 +121,12 @@ Automates **LinkedIn content generation** using structured inputs:
 - Fetches insights via API
 - Generates high-quality posts using AI
 - Stores output back in Sheets
+
+---
+
+<p>
+  <img src="LinkedInContentGenerator.png" width="600"/>
+</p>
 
 ---
 
