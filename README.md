@@ -21,6 +21,12 @@ This workflow implements a **Retrieval-Augmented Generation (RAG)** system that:
 
 ---
 
+<p align="center">
+  <img src="RAGPipelineAndChatbot.png" width="600"/>
+</p>
+
+---
+
 ## ⚙️ Implementation
 
 ### 🔹 Step 1: Data Ingestion
