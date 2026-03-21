@@ -57,7 +57,7 @@ This workflow implements a **Retrieval-Augmented Generation (RAG)** system that:
 - 🧑‍💼 Employee Support Assistant (HR/IT queries)  
 - 📚 Document Search for Legal/Finance Teams  
 - 🏥 Medical Research Assistant  
-- 🎓 AI Tutor using custom materials  
+- 🎓 AI Tutor using required materials  
 
 ---
 
